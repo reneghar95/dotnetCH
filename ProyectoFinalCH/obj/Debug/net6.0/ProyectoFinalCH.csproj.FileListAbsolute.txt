@@ -1,0 +1,15 @@
+E:\Usuario\Documents\Programacion\.NET\Proyectos\ProyectoFinalCH\ProyectoFinalCH\obj\Debug\net6.0\ProyectoFinalCH.csproj.AssemblyReference.cache
+E:\Usuario\Documents\Programacion\.NET\Proyectos\ProyectoFinalCH\ProyectoFinalCH\obj\Debug\net6.0\ProyectoFinalCH.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usuario\Documents\Programacion\.NET\Proyectos\ProyectoFinalCH\ProyectoFinalCH\obj\Debug\net6.0\ProyectoFinalCH.AssemblyInfoInputs.cache
+E:\Usuario\Documents\Programacion\.NET\Proyectos\ProyectoFinalCH\ProyectoFinalCH\obj\Debug\net6.0\ProyectoFinalCH.AssemblyInfo.cs
+E:\Usuario\Documents\Programacion\.NET\Proyectos\ProyectoFinalCH\ProyectoFinalCH\obj\Debug\net6.0\ProyectoFinalCH.csproj.CoreCompileInputs.cache
+E:\Usuario\Documents\Programacion\.NET\Proyectos\ProyectoFinalCH\ProyectoFinalCH\bin\Debug\net6.0\ProyectoFinalCH.exe
+E:\Usuario\Documents\Programacion\.NET\Proyectos\ProyectoFinalCH\ProyectoFinalCH\bin\Debug\net6.0\ProyectoFinalCH.deps.json
+E:\Usuario\Documents\Programacion\.NET\Proyectos\ProyectoFinalCH\ProyectoFinalCH\bin\Debug\net6.0\ProyectoFinalCH.runtimeconfig.json
+E:\Usuario\Documents\Programacion\.NET\Proyectos\ProyectoFinalCH\ProyectoFinalCH\bin\Debug\net6.0\ProyectoFinalCH.dll
+E:\Usuario\Documents\Programacion\.NET\Proyectos\ProyectoFinalCH\ProyectoFinalCH\bin\Debug\net6.0\ProyectoFinalCH.pdb
+E:\Usuario\Documents\Programacion\.NET\Proyectos\ProyectoFinalCH\ProyectoFinalCH\obj\Debug\net6.0\ProyectoFinalCH.dll
+E:\Usuario\Documents\Programacion\.NET\Proyectos\ProyectoFinalCH\ProyectoFinalCH\obj\Debug\net6.0\refint\ProyectoFinalCH.dll
+E:\Usuario\Documents\Programacion\.NET\Proyectos\ProyectoFinalCH\ProyectoFinalCH\obj\Debug\net6.0\ProyectoFinalCH.pdb
+E:\Usuario\Documents\Programacion\.NET\Proyectos\ProyectoFinalCH\ProyectoFinalCH\obj\Debug\net6.0\ProyectoFinalCH.genruntimeconfig.cache
+E:\Usuario\Documents\Programacion\.NET\Proyectos\ProyectoFinalCH\ProyectoFinalCH\obj\Debug\net6.0\ref\ProyectoFinalCH.dll
